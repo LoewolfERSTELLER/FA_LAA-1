@@ -1,2 +1,6 @@
 # FA_LAA-1
-FA_LAA-1 steht für "Frage Antwort. Löwolf alle antworten", es wird eine "Vorschau" version sein wie bei "PfaLAA". PfaLAA war vorschau, version von "FA_LAA-1" die datenbank wird viel größer sein, als bei PfaLAA.
+<h3>Neues KI Modell also?</h3>
+Ja, das wird 100% besseres modell sein, als alle andere, es wird auf 500 - 700 daten trainiert, und soll in der lage sein sinnvolle antwort zu geben!
+# Geplant
+das Modell, soll am 22.9.2023 verfügbar sein, oder am 23.9.2023.
+

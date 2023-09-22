@@ -1,8 +1,23 @@
 # FA_LAA-1
-<h3>Neues KI Modell also?</h3>
-Ja, das wird 100% besseres modell sein, als alle andere, es wird auf 500 - 700 daten trainiert, und soll in der lage sein sinnvolle antwort zu geben!
+Das FA_LAA-1 Modell, ist das erfolgenes modell, die fast keine fehler hat bei geben einer antwort, die das KI modell wird minimum 3 updates bekommen.
+<h1>Neu</h1>
 <br>
-<h1>Geplant</h1>
+-Multi-Task
 <br>
-das Modell, soll am 22.9.2023 verfügbar sein, oder am 23.9.2023.
-
+-600 daten
+<br>
+<h1>Probleme behoben</h1>
+<br>
+-Problem bei training(behoben)
+<br>
+-Problem bei geben einer antwort(behoben)
+<br>
+-Falscher tokenizer(behoben)
+<h1>Training</h1>
+Loss:500
+<br>
+0/17 9sec
+<br>
+1.000 epochen
+<br>
+98% genauichkeit
